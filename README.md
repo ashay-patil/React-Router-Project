@@ -12,7 +12,7 @@ This project is aimed at understanding React Router v6 by implementing navigatio
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ashay-patil/React-Router-Project.git
    ```
 2. Navigate to the project directory:
    ```bash
